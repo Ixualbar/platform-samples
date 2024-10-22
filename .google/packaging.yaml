@@ -11,31 +11,21 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-#
-# GOOGLE SAMPLE PACKAGING DATA
-#
-# This file is used by Google as part of our samples packaging process.
-# End users may safely ignore this file. It has no relevance to other systems.
 ---
 status:       PUBLISHED
-technologies: [Android, Platform]
+technologies: Android 
 categories:
-  - Permissions
   - Camera
   - Accessibility
   - Connectivity
   - Location
-  - Privacy
-  - UserInterface
-  - AndroidPlatform
-  - JetpackComposeA11y
-  - JetpackComposePermissions
+  - All Crypto Asset transfer in Wallet
+  - Realtime configuration 
 solutions:
   - Mobile
   - Platform
   - SDK
-  - Jetpack
-languages:    [Kotlin]
-github:       android/platform-samples
-level:        INTERMEDIATE
+  - website
+languages: English 
 license: apache2
+
